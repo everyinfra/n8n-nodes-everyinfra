@@ -1,0 +1,10 @@
+{
+	"node": "n8n-nodes-everyinfra.everyInfra",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Data & Storage", "Development"],
+	"resources": {
+		"credentialDocumentation": [{ "url": "https://everyinfra.com/docs" }],
+		"primaryDocumentation": [{ "url": "https://github.com/everyinfra/n8n-nodes-everyinfra#readme" }]
+	}
+}
