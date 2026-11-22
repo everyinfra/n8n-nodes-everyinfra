@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-everyinfra",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "n8n node for EveryInfra: structured public data from 106 platforms, web search and CAPTCHA solving behind one API key.",
   "license": "MIT",
   "homepage": "https://everyinfra.com",
